@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/groceryHafta3/groceryHafta3.iml" filepath="$PROJECT_DIR$/groceryHafta3/groceryHafta3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/groceryManager/groceryManager.iml" filepath="$PROJECT_DIR$/groceryManager/groceryManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hafta1/hafta1.iml" filepath="$PROJECT_DIR$/hafta1/hafta1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hafta2/hafta2.iml" filepath="$PROJECT_DIR$/hafta2/hafta2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hafta3/hafta3.iml" filepath="$PROJECT_DIR$/hafta3/hafta3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hafta3odev2/hafta3odev2.iml" filepath="$PROJECT_DIR$/hafta3odev2/hafta3odev2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hafta3odev2/hafta3ticket.iml" filepath="$PROJECT_DIR$/hafta3odev2/hafta3ticket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tasks-rumeysakaraoglan.iml" filepath="$PROJECT_DIR$/.idea/tasks-rumeysakaraoglan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ticketthafta3/ticketthafta3.iml" filepath="$PROJECT_DIR$/ticketthafta3/ticketthafta3.iml" />
+    </modules>
+  </component>
+</project>
