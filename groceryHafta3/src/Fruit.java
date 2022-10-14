@@ -1,23 +1,36 @@
-public class Fruit {
 
-    private int kg;
-    private String fruitName;
+    public class Fruit {
+        private int elma = 30;
+        private int armut = 40;
+        private int kiraz = 50;
 
-        public String getFruitName() {
-            return fruitName;
+        public int getElma() {
+            return elma;
         }
 
-        public void setFruitName(String fruitName) {
-            this.fruitName = fruitName;
+        public void setElma(int elma) {
+            this.elma = elma;
         }
 
-        public int getKg() {
-            return kg;
+        public int getArmut() {
+            return armut;
         }
 
-        public void setKg(int kg) {
-            this.kg = kg;
+        public void setArmut(int armut) {
+            this.armut = armut;
+        }
+
+        public int getKiraz() {
+            return kiraz;
+        }
+
+        public void setKiraz(int kiraz) {
+            this.kiraz = kiraz;
         }
 
     }
+
+
+
+
 
